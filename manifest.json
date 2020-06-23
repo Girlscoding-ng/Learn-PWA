@@ -1,0 +1,9 @@
+{
+  "name": "Aina Kitchen",
+  "short_name": "AinaKitchen",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "orientation": "portrait-primary"
+}
